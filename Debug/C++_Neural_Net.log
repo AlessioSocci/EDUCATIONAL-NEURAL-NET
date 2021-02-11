@@ -1,0 +1,4 @@
+﻿  Neural_Net.cpp
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_Neural_Net\Neuron.h(129): warning C4715: 'Neuron::transferFunction': not all control paths return a value
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_Neural_Net\Neuron.h(144): warning C4715: 'Neuron::transferFunctionDerivative': not all control paths return a value
+  C++_Neural_Net.vcxproj -> C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_Neural_Net\Debug\C++_Neural_Net.exe

@@ -1,0 +1,2 @@
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_Neural_Net\Debug\C++_Neural_Net.exe
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_Neural_Net\Debug\C++_Neural_Net.pdb
